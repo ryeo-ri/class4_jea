@@ -26,7 +26,7 @@
 <body>
 <div>
 <a href="http://sist.co.kr">링크 포항항</a>
-<a href="">세러운 기능 추가</a>
+
 </div>
 </body>
 </html>
